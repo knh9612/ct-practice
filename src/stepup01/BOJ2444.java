@@ -1,4 +1,4 @@
-package stepup1;
+package stepup01;
 
 import java.util.Scanner;
 

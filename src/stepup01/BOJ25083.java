@@ -1,4 +1,4 @@
-package stepup1;
+package stepup01;
 
 public class BOJ25083 {
 
